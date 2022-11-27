@@ -1,0 +1,439 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rob Valentine",
+    "label": "Software QA/CICD Manager",
+    "image": "",
+    "email": "robexternal@gmail.com",
+    "phone": "",
+    "summary": "Experienced System Designer with a demonstrated history of working in the information technology and services industry. Skilled in C#, ASP.Net, React, PHP, Databases, Team Building, Web Design, and Proposal Writing. Strong engineering professional with a National Diploma focused in Information Technology from Port Elizabeth Technikon. ",
+    "location": {
+      "countryCode": "ZA",
+      "address": "",
+      "city": "East London"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ACoAAAu5ehIBIiKSzjesnCA1Ebt3xIg8PNzzEdk",
+        "url": "https://www.linkedin.com/in/ACoAAAu5ehIBIiKSzjesnCA1Ebt3xIg8PNzzEdk/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Oracle",
+      "position": "Software QA/CICD Manager",
+      "startDate": "2022-09-30",
+      "endDate": "2022-11-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/oracle/",
+      "location": "Remote"
+    },
+    {
+      "name": "Oracle",
+      "position": "Principal Member Of Technical Staff",
+      "startDate": "2020-04-30",
+      "endDate": "2022-09-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/oracle/",
+      "location": "East London, Eastern Cape, South Africa"
+    },
+    {
+      "name": "Deloitte Consulting",
+      "position": "Lead Developer: EMIS EC Upload Tool",
+      "startDate": "2012-01-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "summary": "Following on from EMISTools, the EMIS EC Upload Tool processes SASAMS databases from the province's schools. At 5612 schools, this translates to approximately 561GB of data in the form of MS Access databases.\n\nThe EMIS EC Upload tool processes these databases as efficiently and quickly as possible - reaching speeds of around 1000 databases a day. Data is pumped into a SQL Warehouse for further analysis with each Quarterly warehouse reaching sizes of approx. 1.2TB.\n\nThe system is (currently) written using C# and makes heavy use of parallel processing, scaled bulk insert and efficient error reporting (in a friendly way).",
+      "url": "https://www.linkedin.com/company/deloitte/",
+      "location": "East London"
+    },
+    {
+      "name": "Deloitte Consulting",
+      "position": "Lead Developer: EMISTools.co.za",
+      "startDate": "2012-01-31",
+      "endDate": "2020-01-01",
+      "highlights": [],
+      "summary": "EMISTools.co.za processes monthly SASAMS submissions from 5612 schools around the Eastern Cape. \n\nI was responsible for developing this as an independent contractor for Deloitte Consulting in East London and for the Eastern Cape Department of Education. I have since joined Deloitte in a development position and am continually improving the system.\n\nThe system is (currently) written in ASP.net and leverages agile methodology and a lot of optimisation.",
+      "url": "https://www.linkedin.com/company/deloitte/",
+      "location": "East London, South Africa"
+    },
+    {
+      "name": "Maxiware",
+      "position": "Systems Designer (PHP)",
+      "startDate": "2012-01-31",
+      "endDate": "2020-01-01",
+      "highlights": [],
+      "summary": "Develop custom Drupal Solutions\nHandle any and all support queries\nSystems design and development\nCustomer Relations"
+      
+    },
+    {
+      "name": "Mercedes-Benz South Africa",
+      "position": "System Analyst (Software Developer)",
+      "startDate": "2019-05-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/mercedes-benz-south-africa/",
+      "location": "East London, South Africa"
+    },
+    {
+      "name": "techtree",
+      "position": "Software Developer",
+      "startDate": "2018-10-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/techtree/",
+      "location": "East London, South Africa"
+    },
+    {
+      "name": "DomainCheap",
+      "position": "CTO",
+      "startDate": "2013-08-31",
+      "endDate": "2015-08-31",
+      "highlights": [],
+      "summary": "Responsible for managing, planning and overseeing implementation of Web Hosting technology including server monitoring, WHMCS, Billing and custom integration with South African service providers such as Domains.co.za and Uniforum.\n\nDomaincheap was sold to WebAfrica in its entirety in August 2015 along with ~2500 clients and ~ 5000 domains.",
+      "location": "Online"
+    },
+    {
+      "name": "REHAU",
+      "position": "IS Administrator",
+      "startDate": "2004-01-31",
+      "endDate": "2008-12-31",
+      "highlights": [],
+      "summary": "I was responsible for all software development and maintenance at Rehau's South African branches including (but not limited to):\n\n- LAWI solutions and troubleshooting (Warehouse Management Software)\n- Development of in-house solutions \n- Maintenance of the South African web presence\n- General end user support\n- Remote support",
+      "url": "https://www.linkedin.com/company/rehau/",
+      "location": "Fort Jackson, East London, South Africa"
+    },
+    {
+      "name": "University of Fort Hare",
+      "position": "Web Services Administrator",
+      "startDate": "2005-12-31",
+      "endDate": "2008-12-31",
+      "highlights": [],
+      "summary": "Assisted in engineering and troubleshooting all strategic web properties.",
+      "url": "https://www.linkedin.com/school/university-of-fort-hare/"
+    },
+    {
+      "name": "Port Elizabeth Technikon",
+      "position": "Lab Assistant",
+      "startDate": "2002-12-31",
+      "endDate": "2003-12-31",
+      "highlights": []      
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Ward 15 Ward Committee",
+      "position": "Ward Secretary",
+      "startDate": "2012-01-31",
+      "endDate": "2012-01-31",
+      "summary": "Administered and minuted political activities and initiatives in an active Ward in Buffalo City Municipality.",
+      "highlights": []      
+    }
+  ],
+  "education": [
+    {
+      "institution": "Port Elizabeth Technikon",
+      "area": "Information Technology",
+      "studyType": "National Diploma",
+      "startDate": "2001-12-31",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": [
+        "null - Development Software I,II,III",
+        "null - Technical Programming I,II",
+        "null - Information  Systems I,II,III",
+        "null - Systems Software I,II",
+        "null - Internet Programming I,II",
+        "null - CCNA I",
+        "null - Applied Programming",
+        "null - Project Management"
+      ]
+    },
+    {
+      "institution": "Selborne College",
+      "area": "Business",
+      "studyType": "Matric",
+      "startDate": "1989-12-31",
+      "endDate": "2000-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Selborne College",
+      "area": "Laziness Mainly - It was high school. I quite liked Maths.",
+      "studyType": "Matric",
+      "startDate": "1988-12-31",
+      "endDate": "2000-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Business Systems Analysis",
+      "issuer": "GetSmarter",
+      "startDate": "2017-11-30"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "University of Fort Hare",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS Infinidash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker Products",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Power BI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Change Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Social Media",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Rancher",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Systems Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proposal Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Istio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Hannelore Rossocha",
+      "reference": "Rob is very trustworthy and to the point! Thank you, Hannelore"
+    },
+    {
+      "name": "Dave Welmans",
+      "reference": "I can highly recommend Rob for his skills and in depth knowledge of the DSL and Internet market."
+    }
+  ],
+  "projects": [
+    {
+      "name": "National Procurement Portal",
+      "startDate": "2011-01-31",
+      "summary": "The Procurement Portal focuses on disseminating information on tender opportunities and Requests for Quotations countrywide and in the future, will also cater for electronic submission of such quotations through the National Procurement Portal.\n\nDaily leads and tenders are gathered, captured and categorized correctly on the platform to make it accessible to SMME's. SMME's who are registered on the site can view available tenders and can even receive alerts when appropriate information becomes available.\n\nThe Procurement Portal is partnership between Metropolitan Life, Ubuntu Empowerment Services and the Small Enterprise Development Agency.",
+      "url": "http://procurementportal.co.za/"
+    },
+    {
+      "name": "Protect The Wild",
+      "startDate": "2011-01-31",
+      "summary": "Protect the Wild is an ongoing project to generate funds for wildlife sanctuaries via online game playing and advertising revenue."
+    },
+    {
+      "name": "Gift Or Take",
+      "startDate": "2010-01-31",
+      "summary": "Receiving a gift is always exciting, no matter whether it’s for your birthday, for a holiday, or for no reason at all. A gift can brighten your whole day! Imagine knowing that anytime you collect your mail you might find a letter, a postcard, or a package from someone you’ve never met, who simply wants you to have a good day. That’s what Gift or Take is about.",
+      "url": "http://www.giftortake.com"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
