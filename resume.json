@@ -150,14 +150,14 @@
       "endDate": "2004-12-31",
       "score": "",
       "courses": [
-        "null - Development Software I,II,III",
-        "null - Technical Programming I,II",
-        "null - Information  Systems I,II,III",
-        "null - Systems Software I,II",
-        "null - Internet Programming I,II",
-        "null - CCNA I",
-        "null - Applied Programming",
-        "null - Project Management"
+        "Development Software I,II,III",
+        "Technical Programming I,II",
+        "Information  Systems I,II,III",
+        "Systems Software I,II",
+        "Internet Programming I,II",
+        "CCNA I",
+        "Applied Programming",
+        "Project Management"
       ]
     },
     {
@@ -171,9 +171,8 @@
     },
     {
       "institution": "Selborne College",
-      "area": "Laziness Mainly - It was high school. I quite liked Maths.",
       "studyType": "Matric",
-      "startDate": "1988-12-31",
+      "startDate": "1996-01-01",
       "endDate": "2000-12-31",
       "score": "",
       "courses": []
@@ -236,11 +235,6 @@
     },
     {
       "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "University of Fort Hare",
       "level": "",
       "keywords": []
     },
